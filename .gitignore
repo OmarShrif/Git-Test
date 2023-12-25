@@ -1,3 +1,4 @@
+.gitignore
 *.log
 !info.log
 node_packs/
